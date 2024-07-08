@@ -1,6 +1,6 @@
-# CricBlast_GUI
+# CrickBlast_GUI
 
-CricBlast_GUI is a C# application that includes functionalities for managing user accounts, playing matches, and other related operations. This repository contains various classes that handle different parts of the application.
+CrickBlast_GUI is a C# application that includes functionalities for managing user accounts, playing matches, and other related operations. This repository contains various classes that handle different parts of the application.
 
 ## Table of Contents
 
